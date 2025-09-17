@@ -1,0 +1,11 @@
+body {
+  font-family: 'Segoe UI', Arial, sans-serif;
+  background: #222;
+}
+button {
+  box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+}
+#skin-picker, #pet-picker, #env-picker {
+  font-size: 15px;
+  margin-bottom: 8px;
+}
